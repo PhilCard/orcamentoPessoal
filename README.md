@@ -25,3 +25,7 @@ Os dados são armazenados no **LocalStorage** do navegador, garantindo que perma
 1. Faça o download ou clone este repositório:
    ```bash
    git clone https://github.com/PhilCard/orcamentoPessoal
+   
+2. Abra o arquivo index.html no navegador.
+
+3. Cadastre suas despesas e depois acesse a página de consulta para filtrá-las ou removê-las.
